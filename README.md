@@ -132,6 +132,13 @@ This will result in:
 
 
 
+## References
+
+- [Pluto News Gem / Library](https://github.com/feedreader/pluto/tree/master/pluto-news) - Official Documentation
+- [Talk Notes - New Horizons - Build Your Own (Static) Planet News Site w/ Pluto (and Ruby)](https://github.com/geraldb/talks/blob/master/planet.md)
+
+
+
 ## License
 
 The `news.rb` scripts are dedicated to the public domain.
