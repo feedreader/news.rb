@@ -1,8 +1,8 @@
-# news.rb - news quick starter script - build your own facebook newsfeed in 1-2-3 steps in 5 minutes
+# news.rb quick starter script - build your own facebook newsfeed in 1-2-3 steps in 5 minutes
 
 
-* home  :: [github.com/feedreader/news.starter](https://github.com/feedreader/news.starter)
-* bugs  :: [github.com/feedreader/news.starter/issues](https://github.com/feedreader/news.starter/issues)
+* home  :: [github.com/feedreader/news.rb](https://github.com/feedreader/news.rb)
+* bugs  :: [github.com/feedreader/news.rb/issues](https://github.com/feedreader/news.rb/issues)
 * forum :: [groups.google.com/group/wwwmake](http://groups.google.com/group/wwwmake)
 
 
