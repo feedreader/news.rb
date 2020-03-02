@@ -2,7 +2,7 @@
 #  to run use
 #     ruby ./news.rb
 
-require 'pluto/news'
+require 'newscast'
 
 
 News.subscribe(
