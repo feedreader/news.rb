@@ -18,10 +18,10 @@ building your own newsreader or newsfeeds in minutes.
 ### Step 0 - Install
 
 Install the `News` module packaged up in the 
-[`pluto-news` gem / library](https://rubygems.org/gems/pluto-news) with ruby's gem package manager. Example:
+[`newscast` gem / library](https://rubygems.org/gems/newscast) with ruby's gem package manager. Example:
 
 ```
-$ gem install pluto-news
+$ gem install newscast
 ```
 
 
@@ -134,7 +134,7 @@ This will result in:
 
 ## References
 
-- [Pluto News Gem / Library](https://github.com/feedreader/pluto/tree/master/pluto-news) - Official Documentation
+- [Pluto Newscast Gem / Library](https://github.com/feedreader/pluto/tree/master/newscast) - Official Documentation
 - [Talk Notes - New Horizons - Build Your Own (Static) Planet News Site w/ Pluto (and Ruby)](https://github.com/geraldb/talks/blob/master/planet.md)
 
 
